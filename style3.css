@@ -1,0 +1,88 @@
+.container
+{
+    height: 400px;
+    width: 400px;
+    position: relative;
+    left: 573px;
+    top: 102px;
+    border: 2px solid tomato;
+    box-shadow: 2px 2px 2px 2px tomato;
+}
+.color
+{
+    color: tomato;
+}
+
+
+.center
+{
+    margin-left:115px;
+}
+
+
+#trip-heading
+{
+
+    position: relative;
+    left: 670px;
+    top: 15px;
+    font-size: 39px;
+    font-family: sans-serif;
+}
+#line1
+
+{
+   position: relative;
+    left: 250px;
+    top: -22px
+}
+
+#back-heading
+{
+    position: relative;
+    left: 721px;
+    top: 31px;
+    font-size: 34px;
+    font-weight: lighter;
+
+}
+#arrow-icons
+{
+    position: relative;
+    left: 659px;
+    top: -23px;
+    color: white;
+    background-color: tomato;
+    border: 14px solid tomato;
+    border-radius: 23px;
+}
+#line2
+{
+position: relative;
+    right: -828px;
+    top: -34px;
+}
+
+hr{
+    width: 301px;
+    margin-left: 97px;
+}
+.line-cross
+{
+    text-decoration: line-through;
+}
+#box
+{
+    position: relative;
+    bottom: -43px;
+    left: 80px
+}
+#plus
+{
+    position: relative;
+    top: 141px;
+    left: 335px;
+    border: 6px solid tomato;
+    background-color: tomato;
+    color: white;
+}

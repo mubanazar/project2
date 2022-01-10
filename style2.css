@@ -1,0 +1,58 @@
+.background {
+    background-image: url(./one.png);
+    background-size: 1400px;
+    height: 100vh;
+    width: 100%;
+}
+
+.blur {
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(4px);
+    height: 100vh;
+    width: 100%;
+}
+
+
+
+#container
+{
+    height: 217px;
+    width: 496px;
+    border: 1px solid red;
+    margin-left: 453px;
+    margin-top: 216px;
+    border-radius: 12px;
+    /* box-shadow: 2px 2px 5px 1px red; */
+    box-shadow: 3px 3px 4px 1px tomato;
+}
+#add-heading
+{
+color: tomato;
+    font-size: 32px;
+    font-family: serif;
+    font-weight: 100;
+    padding-left: 137px;
+}
+.input-text
+{
+    border: 1px solid tomato;
+}
+#button1
+{
+    background-color: tomato;
+    color: white;
+    margin-left: 168px;
+    height: 50px;
+    margin-top: 18px;
+    width: 123px;
+    border: 1px solid tomato;
+    border-radius: 57px;
+}
+.input-text
+{
+    height: 38px;
+    width: 293px;
+    border: 1px solid tomato;
+    border-radius: 7px;
+    margin-left: 94px;
+}
